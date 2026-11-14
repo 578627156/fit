@@ -1,0 +1,10 @@
+{
+  "name": "一年薄肌计划",
+  "short_name": "薄肌计划",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8f6",
+  "theme_color": "#f7faf8",
+  "description": "记录体重、饮食、训练和阶段报告的个人健身管理应用"
+}
